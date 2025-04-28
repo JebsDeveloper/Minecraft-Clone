@@ -1,0 +1,212 @@
+[
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Block.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Block.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Block.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Block.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/BlockRenderer.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/BlockRenderer.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/BlockRenderer.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/BlockRenderer.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Camera.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Camera.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Camera.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Camera.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Globals.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Globals.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Globals.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Globals.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/GuiRenderer.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/GuiRenderer.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/GuiRenderer.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/GuiRenderer.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Shader.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Shader.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Shader.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Shader.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Texture.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Texture.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Texture.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Texture.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Widget.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Widget.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Widget.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Widget.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/Window.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Window.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/Window.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/Window.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLFW_INCLUDE_NONE=1 -DPRODUCTION_BUILD=0 -DRESOURCES_PATH=\\\"/Users/jesper/Desktop/VSCodeProjects/Minecraft/resources/\\\" -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glm -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -isystem /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/pybind11/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -flto=thin -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/Minecraft.dir/src/main.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/src/main.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/src/main.cpp",
+  "output": "CMakeFiles/Minecraft.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/context.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/context.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/init.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/init.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/input.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/input.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/monitor.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/monitor.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/vulkan.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/vulkan.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/window.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/window.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_init.m",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_init.m",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_joystick.m",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_joystick.m",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_monitor.m",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_monitor.m",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_window.m",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_window.m",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_time.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/cocoa_time.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/posix_thread.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/posix_thread.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/nsgl_context.m",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/nsgl_context.m",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/egl_context.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/egl_context.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/egl_context.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glfw-3.3.2/src -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/osmesa_context.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/src/osmesa_context.c",
+  "output": "thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/glad",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/glad.dir/src/glad.c.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/src/glad.c",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/src/glad.c",
+  "output": "thirdparty/glad/CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/stb_image",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/stb_image.dir/src/stb_image.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/src/stb_image.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_image/src/stb_image.cpp",
+  "output": "thirdparty/stb_image/CMakeFiles/stb_image.dir/src/stb_image.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/stb_truetype",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/stb_truetype.dir/src/stb_truetype.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/src/stb_truetype.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/stb_truetype/src/stb_truetype.cpp",
+  "output": "thirdparty/stb_truetype/CMakeFiles/stb_truetype.dir/src/stb_truetype.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_demo.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_demo.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_draw.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_draw.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_tables.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_tables.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_widgets.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/imgui_widgets.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/backends/imgui_impl_glfw.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/build/thirdparty/imgui-docking",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glfw-3.3.2/include -I/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/glad/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/Users/jesper/Desktop/VSCodeProjects/Minecraft/thirdparty/imgui-docking/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.o"
+}
+]
